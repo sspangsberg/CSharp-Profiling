@@ -1,0 +1,18 @@
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Profiling\Profiling\bin\Debug\Profiling.exe.config
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Profiling\Profiling\bin\Debug\Profiling.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Profiling\Profiling\bin\Debug\Profiling.pdb
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Profiling\Profiling\obj\Debug\Profiling.csprojResolveAssemblyReference.cache
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Profiling\Profiling\obj\Debug\Profiling.exe
+E:\Dropbox\Undervisning\Softwarekonstruktion\C#\Profiling\Profiling\obj\Debug\Profiling.pdb
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\Profiling\Profiling\bin\Debug\Profiling.exe.config
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\Profiling\Profiling\obj\Debug\Profiling.exe
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\Profiling\Profiling\obj\Debug\Profiling.pdb
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\Profiling\Profiling\bin\Debug\Profiling.exe
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\Profiling\Profiling\bin\Debug\Profiling.pdb
+C:\Users\Bruger\Dropbox\Undervisning\Softwarekonstruktion\C#\Profiling\Profiling\obj\Debug\Profiling.csprojResolveAssemblyReference.cache
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\Profiling\Profiling\bin\Debug\Profiling.exe.config
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\Profiling\Profiling\obj\Debug\Profiling.exe
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\Profiling\Profiling\obj\Debug\Profiling.pdb
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\Profiling\Profiling\bin\Debug\Profiling.exe
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\Profiling\Profiling\bin\Debug\Profiling.pdb
+E:\Dropbox (Personlig)\Undervisning\Softwarekonstruktion\C#\Projekter\Profiling\Profiling\obj\Debug\Profiling.csprojResolveAssemblyReference.cache
